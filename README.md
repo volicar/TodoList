@@ -2,14 +2,15 @@
 
 # TodoList in ReactJS
 I made a minimalist todolist using ReactJS
-## ![Alt Text](https://github.com/volicar/TodoList/blob/master/2020-02-22%2001.44.32.gif)
+## 
+![gif256](https://github.com/volicar/TodoList/blob/master/2020-02-22%2001.57.41.gif)
 
-## Used Library FlipMove
+### Used Library FlipMove
 ```javascript
 import FlipMove from 'react-flip-move';
 ```
 
-### In the project directory, you can run:
+#### In the project directory, you can run:
 
 `yarn start`
 
