@@ -2,6 +2,7 @@
 
 # TodoList in ReactJS
 I made a minimalist todolist using ReactJS
+## ![Alt Text](https://github.com/volicar/TodoList/blob/master/2020-02-22%2001.44.32.gif)
 
 ## Used Library FlipMove
 ```javascript
