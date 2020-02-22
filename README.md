@@ -1,6 +1,6 @@
 
 
-## Available Scripts
+## TodoList in ReactJS
 
 In the project directory, you can run:
 
