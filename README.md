@@ -1,10 +1,16 @@
 
 
-## TodoList in ReactJS
+# TodoList in ReactJS
+I made a minimalist todolist using ReactJS
 
-In the project directory, you can run:
+## Used Library FlipMove
+```javascript
+import FlipMove from 'react-flip-move';
+```
 
-### `yarn start`
+### In the project directory, you can run:
+
+`yarn start`
 
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
